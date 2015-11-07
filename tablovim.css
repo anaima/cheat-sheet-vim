@@ -57,6 +57,7 @@ p {
   font-size: 16px;
   display: block;
 }
+/*compatible mobile*/
 @media screen and (min-width:320px) {
   #tableau {
     background-color: white;
@@ -80,6 +81,7 @@ p {
     display: block;
   }
 }
+/*compatible tablette*/
 @media screen and (min-width: 600px) {
   p {
     text-decoration:overline;
@@ -99,6 +101,7 @@ p {
     text-align: center;
   }
 }
+/*compatible écran */
 @media screen and (min-width: 1080px){
   div {
     height: 50px;
@@ -117,6 +120,7 @@ p {
     font-size: 16px;
     display: block;
   }
+  /*pour écran*/
   @media screen and (max-width: 1900px){
     p {
       text-decoration:line-through;
