@@ -38,8 +38,8 @@ div {
   border-top: 1px solid #fff;
   background: #e8edff url('http://1.bp.blogspot.com/_xDpoN6UfFFY/S-J2f5yBC3I/AAAAAAAACbY/zWXYXsR-w5E/s1600/gradback.png') repeat-x;
 }
-#tableau tfoot tr td {
-  background: black;
+.tfoot {
+  background-color: black;
   font-size: 16px;
   color: #99c;
   text-align: center;
